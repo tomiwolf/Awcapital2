@@ -85,35 +85,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/portfolio-01.jpg": {
+	"\/img\/clientes-satisfechos.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32747,
-		"inputAbbreviatedPath": "\/img\/portfolio-01.jpg",
-		"outputAbbreviatedPath": "\/img\/portfolio-01.jpg",
+		"inputAbbreviatedPath": "\/img\/clientes-satisfechos.jpg",
+		"outputAbbreviatedPath": "\/img\/clientes-satisfechos.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/portfolio-02.jpg": {
+	"\/img\/pymes-babos.png": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 210374,
-		"inputAbbreviatedPath": "\/img\/portfolio-02.jpg",
-		"outputAbbreviatedPath": "\/img\/portfolio-02.jpg",
+		"inputAbbreviatedPath": "\/img\/pymes-babos.png",
+		"outputAbbreviatedPath": "\/img\/pymes-babos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/portfolio-03.jpg": {
+	"\/img\/portafolio-03.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 157263,
-		"inputAbbreviatedPath": "\/img\/portfolio-03.jpg",
-		"outputAbbreviatedPath": "\/img\/portfolio-03.jpg",
+		"inputAbbreviatedPath": "\/img\/portafolio-03.jpeg",
+		"outputAbbreviatedPath": "\/img\/portafolio-03.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
